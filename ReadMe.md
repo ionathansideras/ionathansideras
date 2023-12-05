@@ -4,7 +4,7 @@ Hey there! 👋 I'm Ionathan, a passionate junior front-end developer currently 
 
 ## About Me 🚀
 
-I thrive on crafting delightful user experiences using technologies like React, JavaScript, CSS, and SCSS. My toolkit also includes Vite for speedy development, and I'm adept at ensuring the reliability of my projects through Cypress testing.
+I thrive on crafting delightful user experiences using technologies like React, JavaScript, CSS, firebase, and SCSS. My toolkit also includes Vite for speedy development, and I'm adept at ensuring the reliability of my projects through Cypress testing.
 
 ## Educational Background 📚
 
