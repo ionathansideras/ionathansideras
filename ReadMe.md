@@ -16,7 +16,7 @@ I believe that my willingness to take on new challenges and my eagerness to lear
 
 ## Let's Connect! 🌐
 
-Feel free to explore my [portfolio website]([https://ionathansideras.github.io/new-portfolio/) to get a closer look at my projects and learn more about my journey in web development.
+Feel free to explore my [portfolio website]([#https://ionathansideras.github.io/new-portfolio/) to get a closer look at my projects and learn more about my journey in web development.
 
 I'm always open to new opportunities, collaborations, and challenges. Let's connect and create something amazing together! 🚀
 
