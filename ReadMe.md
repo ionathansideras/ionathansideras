@@ -8,7 +8,7 @@ I thrive on crafting delightful user experiences using technologies like React, 
 
 ## Learning Adventures 📚
 
-I've embarked on a couple of significant learning experiences, completing courses at [The Odin Project](#odin-project-link) and Harvard's [CS50x](#cs50x-link). Currently, I'm deepening my knowledge through various Udemy courses, always eager to stay ahead in the dynamic world of web development.
+I've embarked on a couple of significant learning experiences, completing courses at **The Odin Project** and Harvard's **CS50x**. Currently, I'm deepening my knowledge through various Udemy courses, always eager to stay ahead in the dynamic world of web development.
 
 ## Professional Journey 💼
 
