@@ -16,5 +16,5 @@ I'm proud to be contributing as a front-end developer, where I'm actively involv
 
 ## Let's Connect! 🌐
 
-Feel free to reach out or explore more about my journey on my [LinkedIn](#www.linkedin.com/in/ionathan-sideras-072a60255). Exciting times ahead as I continue to learn, evolve, and push the boundaries of front-end development!
+Feel free to reach out or explore more about my journey on my [LinkedIn](www.linkedin.com/in/ionathan-sideras-072a60255). Exciting times ahead as I continue to learn, evolve, and push the boundaries of front-end development!
 
