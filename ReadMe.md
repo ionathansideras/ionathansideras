@@ -12,9 +12,9 @@ I've embarked on a couple of significant learning experiences, completing course
 
 ## Professional Journey 💼
 
-I'm proud to be contributing as a front-end developer at [Your Company](#company-link), where I'm actively involved in reshaping projects. I'm not just satisfied with the status quo; I'm on a mission to remake my portfolio projects, infusing them with written code and complexity to showcase my evolving skills.
+I'm proud to be contributing as a front-end developer, where I'm actively involved in reshaping projects. I'm not just satisfied with the status quo; I'm on a mission to remake my portfolio projects, infusing them with better written code and complexity to showcase my evolving skills.
 
 ## Let's Connect! 🌐
 
-Feel free to reach out or explore more about my journey on my [LinkedIn](#linkedin-link). Exciting times ahead as I continue to learn, evolve, and push the boundaries of front-end development!
+Feel free to reach out or explore more about my journey on my [LinkedIn](#www.linkedin.com/in/ionathan-sideras-072a60255). Exciting times ahead as I continue to learn, evolve, and push the boundaries of front-end development!
 
