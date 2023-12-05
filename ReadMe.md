@@ -1,22 +1,20 @@
-# Ionathan's Portfolio 👨‍💻
+# Ionathan's Developer Journey 👨‍💻
 
-Hi there! 👋 My name is Ionathan, and I'm a junior front-end developer with a passion for crafting engaging and interactive user experiences on the web.
+Hey there! 👋 I'm Ionathan, a passionate junior front-end developer currently working in the exciting realm of web development. Let me share a bit about my journey so far.
 
 ## About Me 🚀
 
-I've created this personal portfolio to showcase my work and skills. Through my website, you can explore my projects and witness the progress I've made in my journey as a front-end developer. I'm committed to demonstrating my abilities, sharing my passion for web development, and showcasing my dedication to continuous learning and self-improvement.
+I thrive on crafting delightful user experiences using technologies like React, JavaScript, CSS, and SCSS. My toolkit also includes Vite for speedy development, and I'm adept at ensuring the reliability of my projects through Cypress testing.
 
-## What I Do 💡
+## Learning Adventures 📚
 
-I'm always immersed in studying and learning various programming languages, frameworks, and design principles. Staying up-to-date with the latest industry trends is crucial to me. This commitment allows me to enhance my skills and deliver cutting-edge solutions.
+I've embarked on a couple of significant learning experiences, completing courses at [The Odin Project](#odin-project-link) and Harvard's [CS50x](#cs50x-link). Currently, I'm deepening my knowledge through various Udemy courses, always eager to stay ahead in the dynamic world of web development.
 
-## Why Choose Me? 🌟
+## Professional Journey 💼
 
-I believe that my willingness to take on new challenges and my eagerness to learn make me a strong candidate for any front-end development role. I'm genuinely excited about pushing my boundaries and contributing to projects that drive innovation.
+I'm proud to be contributing as a front-end developer at [Your Company](#company-link), where I'm actively involved in reshaping projects. I'm not just satisfied with the status quo; I'm on a mission to remake my portfolio projects, infusing them with written code and complexity to showcase my evolving skills.
 
 ## Let's Connect! 🌐
 
-Feel free to explore my [portfolio website]([#https://ionathansideras.github.io/new-portfolio/) to get a closer look at my projects and learn more about my journey in web development.
-
-I'm always open to new opportunities, collaborations, and challenges. Let's connect and create something amazing together! 🚀
+Feel free to reach out or explore more about my journey on my [LinkedIn](#linkedin-link). Exciting times ahead as I continue to learn, evolve, and push the boundaries of front-end development!
 
