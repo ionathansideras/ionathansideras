@@ -6,6 +6,10 @@ Hey there! 👋 I'm Ionathan, a passionate junior front-end developer currently 
 
 I thrive on crafting delightful user experiences using technologies like React, JavaScript, CSS, and SCSS. My toolkit also includes Vite for speedy development, and I'm adept at ensuring the reliability of my projects through Cypress testing.
 
+## Educational Background 📚
+
+I pursued my passion for technology early on, majoring in Computer Science at vocational high school. Despite not having a university degree, I've gained hands-on experience and continuously expanded my skills through practical projects and ongoing self-education.
+
 ## Learning Adventures 📚
 
 I've embarked on a couple of significant learning experiences, completing courses at **The Odin Project** and Harvard's **CS50x**. Currently, I'm deepening my knowledge through various Udemy courses, always eager to stay ahead in the dynamic world of web development.
