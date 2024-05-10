@@ -16,7 +16,7 @@ I've embarked on a couple of significant learning experiences, completing course
 
 ## Professional Journey 💼
 
-I work alongside a cool team of backend developers and designers, and I’m the front-end developer who loves tweaking and transforming our projects. I’m all about pushing beyond the usual—constantly upgrading my portfolio with slicker, smarter code. It’s not just about keeping up; it’s about standing out and showing how my skills have grown in the exciting world of web development.
+I work alongside a cool team of backend developers and designers, and I’m the front-end developer who loves tweaking and transforming our projects. I’m all about pushing beyond the usual—constantly upgrading my portfolio with slicker, smarter code. It’s not just about keeping up, it’s about standing out and showing how my skills have grown in the exciting world of web development.
 
 ## Let's Connect! 🌐
 
