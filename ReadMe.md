@@ -12,7 +12,7 @@ I pursued my passion for technology early on, majoring in Computer Science at vo
 
 ## Learning Adventures 📚
 
-I've embarked on a couple of significant learning experiences, completing courses at **The Odin Project** and Harvard's **CS50x**. Currently, I'm deepening my knowledge through various Udemy courses, always eager to stay ahead in the dynamic world of web development.
+I've embarked on a couple of significant learning experiences, completing courses at **The Odin Project**,  Harvard's **CS50x**, **Modern React with Redux 2024 Update**. Currently, I'm deepening my knowledge through various Udemy courses, always eager to stay ahead in the dynamic world of web development.
 
 ## Professional Journey 💼
 
