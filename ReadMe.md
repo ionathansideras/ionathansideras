@@ -1,6 +1,6 @@
 # Ionathan's Developer Journey 👨‍💻
 
-Hey there! 👋 I'm Ionathan, a passionate junior front-end developer currently working in the exciting realm of web development. Let me share a bit about my journey so far.
+Hey there! 👋 I'm Ionathan, a passionate front-end developer currently working in the exciting realm of web development. Let me share a bit about my journey so far.
 
 ## About Me 🚀
 
