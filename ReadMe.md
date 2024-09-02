@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working at Three Deers.
-👯 I’m looking to collaborate on projects that genuinely solve problems.
-🤝 I’m seeking help with my LipSync library.
-🌱 I’m currently learning more about freelancing.
-💬 Feel free to ask me about web development.
+🔭 I’m currently working at Three Deers. <br>
+👯 I’m looking to collaborate on projects that genuinely solve problems. <br>
+🤝 I’m seeking help with my LipSync library. <br>
+🌱 I’m currently learning more about freelancing. <br>
+💬 Feel free to ask me about web development. <br>
 ⚡ Fun fact: AI won’t be taking your software engineering job anytime soon!
 
 ## 🌐 Socials:
