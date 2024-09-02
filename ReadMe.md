@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+🔭 I’m currently working at Three Deers.
+👯 I’m looking to collaborate on projects that genuinely solve problems.
+🤝 I’m seeking help with my LipSync library.
+🌱 I’m currently learning more about freelancing.
+💬 Feel free to ask me about web development.
+⚡ Fun fact: AI won’t be taking your software engineering job anytime soon!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ionathan-sideras-072a60255/)
