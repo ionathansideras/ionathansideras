@@ -2,6 +2,7 @@
 🔭 I’m currently working at Three Deers. <br>
 👯 I’m looking for indie hacking advices. <br>
 🌱 I’m currently learning more things and work on my portfolio. <br>
+📹 Trying to figure out if i should start making youtube videos <br> 
 💬 Ask me about web development. <br>
 ⚡ Fun fact: AI won’t be taking your software engineering job anytime soon!
 
