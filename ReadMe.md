@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently getting ready to start working at Vinted. <br>
+🔭 Currently working at Vinted. <br>
 👯 I’m looking for indie hacking advices. <br>
 🌱 I’m currently learning more things and work on my portfolio. <br>
 🤖 NOT A VIBE CODER. <br> 
