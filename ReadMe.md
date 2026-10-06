@@ -1,8 +1,7 @@
 # 💫 About Me:
 🔭 Currently working at Vinted. <br>
 👯 I’m looking for strartup SaaS advices. <br>
-🌱 I’m currently learning more things about 3D web development. <br>
-🤖 Not a vibe coder. <br> 
+🌱 I’m currently learning more things about 3D web development. <br> 
 💬 Let's talk about web development. <br>
 ⚡ Fun fact: AI won’t be taking your software engineering job anytime soon!
 
